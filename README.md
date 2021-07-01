@@ -38,7 +38,7 @@ I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitatin
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 ### Other Languages I know
-<img src="http://img.shields.io/badge/-JavaScript-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-PHP-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img src="http://img.shields.io/badge/-JavaScript-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-PHP-blue?style=flat&logo=php&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
 
